@@ -1,6 +1,6 @@
 var img;
 
-const snowFlakeCount = 2000;
+const snowFlakeCount = 1000;
 const size = 5;
 const gravity = 0.5;
 

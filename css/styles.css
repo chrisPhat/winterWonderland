@@ -13,6 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #800a0a;
+    overflow: hidden;
 }
 
 h1{
